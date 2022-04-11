@@ -1,6 +1,6 @@
 #include <DS1302.h>
 #include <LiquidCrystal.h>
-
+ASLKHDJKAJSHDKJHASD
 #define DELAY_TIME 300
 // Chan tin hieu cho LCD 16x2
 #define rs 9
